@@ -1,7 +1,9 @@
 body { background-color:red; margin-left:1em;}
 header { color:white; font-size:4em}
-img {width: 100%}
+img {width: 75%; }
 footer {text-align:center}
-aside {text-align:right; margin-right: 2em;}
+aside {text-align:right; margin-right: 2em; font-family: cursive;}
 h1, h2 {font-size:2em;}
 li {color:green;}
+p {font-weight: bolder;}
+border { border-color: green;}
